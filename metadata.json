@@ -1,0 +1,6 @@
+{
+  "name": "أحياء - Biology",
+  "description": "تطبيق تعليمي تفاعلي لكتاب الأحياء يعمل Offline بالكامل، مع شروحات، رسوم تفاعلية، اختبارات متدرجة الصعوبة، وبناء أندرويد جاهز للـ APK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
